@@ -1,11 +1,23 @@
 {
   "name": "paseo-notion-light-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Notion's light theme for Paseo, measured from the Notion desktop app.",
   "license": "MIT",
-  "keywords": ["paseo", "paseo-plugin", "theme", "notion"],
-  "files": ["paseo-plugin.json", "OVERVIEW.md", "index.client.ts", "assets/", "README.md", "LICENSE"],
+  "keywords": [
+    "paseo",
+    "paseo-plugin",
+    "theme",
+    "notion"
+  ],
+  "files": [
+    "paseo-plugin.json",
+    "OVERVIEW.md",
+    "index.client.ts",
+    "assets/",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "typecheck": "tsc --noEmit"
   },
