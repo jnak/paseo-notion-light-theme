@@ -23,6 +23,6 @@ Then pick **Notion Light** under Settings → Appearance.
 | border | `#ebebe9` | `--cl-palGra90` (on white) |
 | accent | `#2383e2` | `--c-palUiBlu600` |
 | mutedForeground | `#7d7a75` | `--c-texSec` |
-| ring | `#a19e99` | `--c-texTer` |
+| ring | `#ada9a3` | `--c-icoTer` |
 
 Unofficial; not affiliated with or endorsed by Notion.

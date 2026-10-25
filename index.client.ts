@@ -14,7 +14,7 @@ export default function contribute(client: PluginClientContext) {
       border: "#ebebe9", // --cl-palGra90 on white: visible selected row; Paseo also fills user bubbles with it
       accent: "#2383e2", // --c-palUiBlu600: Notion blue
       mutedForeground: "#7d7a75", // --c-texSec
-      ring: "#a19e99", // --c-texTer: extra-muted text, scrollbars, terminal bright black
+      ring: "#ada9a3", // --c-icoTer: extra-muted text, scrollbars; Paseo 0.13 also fills the selected sidebar row with it
     },
   });
   return remove;

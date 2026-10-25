@@ -1,6 +1,6 @@
 {
   "name": "paseo-notion-light-theme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "Notion's light theme for Paseo, measured from the Notion desktop app.",
   "license": "MIT",
